@@ -5,7 +5,8 @@
     "slug":"digits/digits.php",
     "Author":"UnitedOver",
     "AuthorURI": "https://www.unitedover.com/",
-    "PluginURI": "https://digits.unitedover.com"
+    "PluginURI": "https://digits.unitedover.com",
+    "support": "support@unitedover.com"
   },
   "wpnotif/wpnotif.php":{
     "title": "WPNotif: WordPress SMS & WhatsApp Notifications",
@@ -13,7 +14,8 @@
     "slug":"wpnotif/wpnotif.php",
     "Author":"UnitedOver",
     "AuthorURI": "https://www.unitedover.com/",
-    "PluginURI": "https://wpnotif.unitedover.com"
+    "PluginURI": "https://wpnotif.unitedover.com",
+    "support": "support@unitedover.com"
   },
   "wpaudit/wpaudit.php":{
     "title": "WPAudit",
@@ -21,6 +23,7 @@
     "slug":"wpaudit/wpaudit.php",
     "Author":"UnitedOver",
     "AuthorURI": "https://www.unitedover.com/",
-    "PluginURI": "https://wpaudit.unitedover.com"
+    "PluginURI": "https://wpaudit.unitedover.com",
+    "support": "support@unitedover.com"
   }
 }
